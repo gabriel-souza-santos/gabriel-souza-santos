@@ -2,6 +2,12 @@
 
 I'm a software developer passionate about building robust, efficient, and scalable applications. Currently, I'm focusing on backend development, systems programming, and learning new technologies.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-souza-santos/gabriel-souza-santos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-souza-santos/gabriel-souza-santos/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gabriel-souza-santos/gabriel-souza-santos/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ## 🛠️ Technologies & Tools
