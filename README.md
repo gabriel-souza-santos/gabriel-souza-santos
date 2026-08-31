@@ -23,12 +23,18 @@
 <h2> 🔥 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabriel-souza-santos&theme=radical" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=gabriel-souza-santos&theme=radical"
+    alt="Streak Stats"
+    style="height: 160px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=gabriel-souza-santos&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabriel-souza-santos&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=gabriel-souza-santos&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    style="height: 160px;"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabriel-souza-santos&layout=compact&theme=radical"
+    alt="Top Languages"
+    style="height: 160px;"/>
 </p>
 
 
